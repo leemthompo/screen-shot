@@ -20,6 +20,6 @@ The next step is to turn this script into a daemon (😈 ) that:
 1. Searches for any HTML files in the relevant folder
 1. Runs the OCR
 1. Spits the text into a working buffer
-1. Deletes the HTML file. 
+1. Deletes the HTML file
 
 This will remove several manual steps and be the first real step in creating a **pipeline** process, rather than a one-time script run.
